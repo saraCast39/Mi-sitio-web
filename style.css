@@ -1,4 +1,4 @@
-/* Fondo general del body */
+
 body {
   margin: 0;
   font-family: Arial, sans-serif;
@@ -9,16 +9,16 @@ body {
   color: white;
 }
 
-/* Contenedor principal */
+
 .contenedor {
   max-width: 900px;
   margin: 0 auto;
   padding: 20px;
-  background-color: rgba(0, 0, 0, 0.6); /* fondo semitransparente */
+  background-color: rgba(0, 0, 0, 0.6); 
   border-radius: 10px;
 }
 
-/* Header con logo alineado a la izquierda */
+
 .encabezado {
   display: flex;
   align-items: center;
@@ -31,7 +31,7 @@ body {
   height: 80px;
 }
 
-/* Contenido principal */
+
 .contenido {
   text-align: center;
   margin: 30px 0;
@@ -52,7 +52,7 @@ body {
   background-color: #cc2852;
 }
 
-/* Footer */
+
 .pie-pagina {
   text-align: center;
   background-color: #222;
